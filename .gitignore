@@ -4,3 +4,10 @@ __pycache__
 capture24
 capture24.zip
 processed_data
+
+.csv
+.ipynb
+.xlsx
+.json
+.txt
+
