@@ -10,4 +10,7 @@ processed_data
 *.xlsx
 *.json
 *.txt
+*.jpg
+*.jpeg
+*.png
 
